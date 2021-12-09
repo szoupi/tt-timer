@@ -1,0 +1,41 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+
+ @media (min-width:768px) {
+    .sticky-text {
+        position:fixed;
+        height: 85vh;
+        overflow-y:auto;
+        bottom: 2rem;
+    }
+}
+
+
+
+#footer-thankyou {
+    display: none;
+}
+
+label {
+    margin-top: 1rem !important;
+}
+
+p {
+    font-size: 1rem !important;
+}
+
+.sticky-right {
+    position: fixed;
+    right: 2rem;
+}
+
+#btn-save {
+    bottom: 5rem;
+}
+
+#btn-ypovoli {
+    bottom: 1rem;
+}
+

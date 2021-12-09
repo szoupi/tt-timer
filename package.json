@@ -1,0 +1,15 @@
+{
+  "name": "tt-timer",
+  "version": "1.0.0",
+  "description": "A standardized, organized, object-oriented foundation for building high-quality WordPress Plugins.",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
